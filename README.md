@@ -37,11 +37,6 @@
 - 🧩 [**Python UML Generator**](https://github.com/ManavGarga/python-uml-generator)  
   → Generate UML class diagrams from Python source code using `ast` + `graphviz`
 
-- 🌐 [**Bone & Joint Physio Clone**](https://github.com/ManavGarga/boneandjointphysio-clone)  
-  → Responsive website rebuild for a real-world clinic
-
-- 💻 [**CLI Dev Tools**](https://github.com/ManavGarga/cli-dev-tools)  
-  → Python-based productivity tools for developers
 
 ---
 
@@ -56,8 +51,8 @@
 
 ### 🌍 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/manav-garg/)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/imanavgarg/)
+- [Email](mailto:manav2209garg@gmail.com)
 - [GitHub](https://github.com/ManavGarga)
 
 ---
